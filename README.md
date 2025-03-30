@@ -4,9 +4,13 @@
 
 This is a responsive image gallery built using React.js. The gallery showcases various anime covers dynamically using a component-based structure.
 
+### 🌍 Live Preview
+
+- Check out the live demo: https://anime-gallery-2cd3.vercel.app/
+
 ### ✨ Features
 
--📱 Responsive Design: Adapts to different screen sizes seamlessly.
+- 📱 Responsive Design: Adapts to different screen sizes seamlessly.
 
 - 🔄 Dynamic Rendering: Uses React components to display images efficiently.
 
@@ -24,7 +28,8 @@ This is a responsive image gallery built using React.js. The gallery showcases v
 
 ### 📸 Preview
 
-(Replace with an actual screenshot of your gallery)
+![image](https://github.com/user-attachments/assets/ea21b0d0-b6f8-43ff-bd4d-e4e4f1fd911b)
+
 
 ### 📂 Folder Structure
 ```python
@@ -75,17 +80,17 @@ npm start
 
 ### 🌟 Usage
 
--Open http://localhost:3000/ in your browser.
+- Open http://localhost:3000/ in your browser.
 
 ## Browse the anime gallery with a responsive layout.
 
--📌 Future Enhancements
+- 📌 Future Enhancements
 
--🔍 Search functionality
+- 🔍 Search functionality
 
--🎭 Filter by genre or category
+- 🎭 Filter by genre or category
 
--⚡ Lazy loading for better performance
+- ⚡ Lazy loading for better performance
 
--🤝 Contributing
+- 🤝 Contributing
 
