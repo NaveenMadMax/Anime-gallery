@@ -1,32 +1,32 @@
-###Anime Image Gallery
+### Anime Image Gallery
 
-##📌 Overview
+## 📌 Overview
 
 This is a responsive image gallery built using React.js. The gallery showcases various anime covers dynamically using a component-based structure.
 
-###✨ Features
+### ✨ Features
 
-##📱 Responsive Design: Adapts to different screen sizes seamlessly.
+-📱 Responsive Design: Adapts to different screen sizes seamlessly.
 
-##🔄 Dynamic Rendering: Uses React components to display images efficiently.
+- 🔄 Dynamic Rendering: Uses React components to display images efficiently.
 
-##🎨 Styled Components: Custom CSS styling for a modern UI.
+- 🎨 Styled Components: Custom CSS styling for a modern UI.
 
-##📂 Organized Assets: Images are managed within a dedicated folder.
+- 📂 Organized Assets: Images are managed within a dedicated folder.
 
-##🚀 Technologies Used
+- 🚀 Technologies Used
 
-##React.js ⚛️
+- React.js ⚛️
 
-##CSS3 🎨
+- CSS3 🎨
 
-##JavaScript (ES6+) ✨
+- JavaScript (ES6+) ✨
 
-📸 Preview
+### 📸 Preview
 
 (Replace with an actual screenshot of your gallery)
 
-###📂 Folder Structure
+### 📂 Folder Structure
 ```python
 📁 my-gallery-app
  ┣ 📁 src
@@ -44,40 +44,40 @@ This is a responsive image gallery built using React.js. The gallery showcases v
  ┣ 📄 README.md
  ```
 
-###🛠 Installation
+### 🛠 Installation
 
-##To run this project locally, follow these steps:
+## To run this project locally, follow these steps:
 
-##Clone the repository:
+## Clone the repository:
 
 ```python
 https://github.com/NaveenMadMax/Anime-gallery.git
 
 ```
 
-##Navigate to the project folder:
+## Navigate to the project folder:
 
 ```python
 cd image-gallery
 ```
 
-###Install dependencies:
+### Install dependencies:
 
 ```python
 npm install
 ```
 
-###Start the development server:
+### Start the development server:
 
 ```python
 npm start
 ```
 
-###🌟 Usage
+### 🌟 Usage
 
 -Open http://localhost:3000/ in your browser.
 
-##Browse the anime gallery with a responsive layout.
+## Browse the anime gallery with a responsive layout.
 
 -📌 Future Enhancements
 
