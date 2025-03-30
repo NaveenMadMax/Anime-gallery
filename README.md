@@ -73,24 +73,19 @@ npm install
 npm start
 ```
 
-🌟 Usage
+###🌟 Usage
 
-Open http://localhost:3000/ in your browser.
+-Open http://localhost:3000/ in your browser.
 
-Browse the anime gallery with a responsive layout.
+##Browse the anime gallery with a responsive layout.
 
-📌 Future Enhancements
+-📌 Future Enhancements
 
-🔍 Search functionality
+-🔍 Search functionality
 
-🎭 Filter by genre or category
+-🎭 Filter by genre or category
 
-⚡ Lazy loading for better performance
+-⚡ Lazy loading for better performance
 
-🤝 Contributing
+-🤝 Contributing
 
-Pull requests are welcome! If you'd like to contribute, feel free to open an issue or submit a PR.
-
-📜 License
-
-This project is open-source and available under the MIT License.
